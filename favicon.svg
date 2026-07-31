@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <title>Orino Space Icon</title>
+  <defs>
+    <linearGradient id="g" x1="184" y1="265" x2="777" y2="811" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3FF"/>
+      <stop offset="0.52" stop-color="#3D70FF"/>
+      <stop offset="1" stop-color="#D453FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M512 170c188.9 0 342 153.1 342 342S700.9 854 512 854 170 700.9 170 512 323.1 170 512 170Zm0 128c-118.2 0-214 95.8-214 214s95.8 214 214 214 214-95.8 214-214-95.8-214-214-214Z" fill="url(#g)"/>
+  <path d="M650 586 858 242 688 430 555 626l95-40Z" fill="#080D19"/>
+  <path d="M660 524 842 257 716 427l-56 97Z" fill="#34B8FF"/>
+  <path d="M812 130 846 204 920 238 846 272 812 346 778 272 704 238 778 204 812 130Z" fill="#D453FF"/>
+</svg>
